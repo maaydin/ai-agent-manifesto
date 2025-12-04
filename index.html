@@ -35,6 +35,9 @@
 
     <!-- Tailwind CSS (Runtime for Zero-Build) -->
     <script src="https://cdn.tailwindcss.com"></script>
+    <!-- GitHub Buttons -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+
     <script>
         tailwind.config = {
             theme: {
@@ -107,9 +110,6 @@
 
     </script>
 
-    <!-- GitHub Buttons -->
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
-
     <style>
         body {
             background-color: #0B0F19;
@@ -129,7 +129,7 @@
     <nav class="w-full border-b border-border/50 backdrop-blur-md sticky top-0 z-50 bg-bg/80">
         <div class="max-w-3xl mx-auto px-6 h-16 flex items-center justify-between">
             <span class="font-mono text-xs text-muted uppercase tracking-widest">The Cabin Crew Protocol</span>
-            <a href="https://github.com/cabincrew-dev/ai-agent-manifesto" target="_blank"
+            <a id="github-button" href="https://github.com/cabincrew-dev/ai-agent-manifesto" target="_blank"
                 class="text-sm font-mono hover:text-primary transition-colors">
                 ★ Star to Sign
             </a>
@@ -257,7 +257,7 @@
                     shift in how we architect trust. We commit to building systems that prioritize
                     <strong>Verification over Vibes</strong> and <strong>Safety over Speed</strong>.
                 </p>
-                <div class="max-w-xs mx-auto transform scale-150">
+                <div style="width: 66%; margin: auto;" class="transform scale-150">
                     <a class="github-button " href="https://github.com/cabincrew-dev/ai-agent-manifesto"
                         data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-star"
                         data-size="large" data-show-count="true"
