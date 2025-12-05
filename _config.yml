@@ -1,0 +1,16 @@
+# Site
+title: 'The Manifesto for Agentic Automation'
+description: 'Governing the Shift from Automation to Autonomy. The standard for Autonomous Workflows.'
+motto: '5 Immutable Laws for Safe AI Agents. Join the movement.'
+url: "https://aiagentmanifesto.org"
+favicon: 'favicon.png'
+
+plugins: 
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Syntax
+markdown: kramdown
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.md, CONTRIBUTING.md]
