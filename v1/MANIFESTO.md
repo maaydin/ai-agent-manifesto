@@ -1,7 +1,7 @@
 ---
 layout: index
 permalink: /
-version: v1
+version: v1.0
 is_draft: false
 
 # 1. THE HERO SECTION
