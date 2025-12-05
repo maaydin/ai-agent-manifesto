@@ -3,6 +3,9 @@ layout: index
 permalink: /draft/
 is_draft: true
 version: draft
+title: 'AI Agent Manifesto'
+description: 'Governing the Shift from Automation to Autonomy. AI Agent Manifesto is the standard for safe Autonomous Workflows.'
+motto: '5 Immutable Laws for Safe AI Agents. Join the movement.'
 
 # 1. THE HERO SECTION
 hero:

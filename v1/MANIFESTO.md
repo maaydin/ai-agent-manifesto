@@ -3,6 +3,9 @@ layout: index
 permalink: /
 version: v1.0
 is_draft: false
+title: 'The Manifesto for Agentic Automation'
+description: 'Governing the Shift from Automation to Autonomy. The standard for Autonomous Workflows.'
+motto: '5 Immutable Laws for Safe AI Agents. Join the movement.'
 
 # 1. THE HERO SECTION
 hero:
