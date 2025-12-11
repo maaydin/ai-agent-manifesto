@@ -51,12 +51,10 @@ No problem at all! Just drop an issue if you have feedback, a principle to sugge
 
 ## 🛠 Reference Implementation
 
-The principles in this manifesto are not theoretical. They require infrastructure.
+These principles are codified in the `The Cabin Crew Protocol` as a reference implementation. It provides the open-source infrastructure needed to enforce these principles across agents and platforms.
 
-We built **[Cabin Crew](https://cabincrew.dev)** as the reference implementation of this protocol. It creates the **Universal Chain of Custody** for any AI agent, on any platform.
+Explore Cabin Crew Protocol ->
 
-Whether you are migrating from Ansible or building the next financial AI, Cabin Crew enforces these principles by acting as the Passport Office and Border Control for your autonomous workforce.
-
-**[Explore the Platform ->](https://cabincrew.dev)**
+**[Explore Cabin Crew Protocol ->](https://github.com/cabincrew-dev/cabincrew-protocol/blob/main/docs/manifesto-compliance.md)**
 
 ---
