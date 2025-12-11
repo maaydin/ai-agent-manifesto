@@ -1,4 +1,4 @@
-# The Manifesto for Agentic Automation
+# Open Manifesto for AI Agents Touching Production Systems
 
 [![Legacy Version](https://img.shields.io/badge/version-legacy-green)](legacy/MANIFESTO.md)
 [![Draft Version](https://img.shields.io/badge/version-draft-blue)](draft/MANIFESTO.md)
