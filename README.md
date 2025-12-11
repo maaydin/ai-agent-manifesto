@@ -1,6 +1,7 @@
 # The Manifesto for Agentic Automation
 
-[![Current Version](https://img.shields.io/badge/version-1.0-blue)](v1/MANIFESTO.md)
+[![Current Version](https://img.shields.io/badge/version-v1-green)](v1/MANIFESTO.md)
+[![Draft Version](https://img.shields.io/badge/version-draft-blue)](draft/MANIFESTO.md)
 [![Signatures](https://img.shields.io/github/stars/cabincrew-dev/ai-agent-manifesto?label=Signatures&style=for-the-badge&color=38bdf8)](https://github.com/cabincrew-dev/ai-agent-manifesto)
 
 ### From Automation to Autonomy.
@@ -19,22 +20,18 @@ This document explains the basic rules for using AI agents safely. It focuses on
 
 ---
 
-## 🚀 Join the Movement
+## 🚀 Community
 
-We believe that the move from "Automation" to "Autonomy" requires a fundamental shift in how we architect trust. We commit to building and using systems that prioritize **Verification over Vibes** and **Safety over Speed.**
+We believe that the shift from Automation to Autonomy requires rethinking how we build and maintain trust. This means embracing systems that prioritize verification over vibes and safety over speed.
 
-### How to Sign ✍️
+The Manifesto is an open, community-driven document. If you’d like to support its development, you can:
 
-By starring this repository, you are signing the manifesto and signaling your support for verified, governed AI.
+- ⭐️ star the repository
+- join discussions
+- suggest improvements by opening issues
+- contribute to the next version
 
-**Option 1:** Click the ⭐ Star button at the top right of this page.
-
-**Option 2:** Sign via Terminal (using GitHub CLI):
-```bash
-gh repo star cabincrew-dev/ai-agent-manifesto
-```
-
----
+Thank you for being part of this effort.
 
 ## 🤝 Contributing
 
